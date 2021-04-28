@@ -1,0 +1,12 @@
+{
+  "name": "palletSimples2",
+  "displayName": "palletSimples2",
+  "expo": {
+    "name": "palletSimples2",
+    "slug": "palletSimples2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
