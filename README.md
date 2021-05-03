@@ -19,4 +19,4 @@ The following tools were used in the construction of the project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-componets](https://styled-components.com/)
