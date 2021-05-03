@@ -2,4 +2,4 @@
 
 >Status : Developing 
 
-###### É uma aplicação cuja a finalidade é facilitar a lista de afazer na hora de fazer etiquetas de liberação dos pallets. 
+###### It is an application whose purpose is to facilitate the to-do list when making labels for releasing pallets.
