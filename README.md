@@ -8,4 +8,5 @@
 - [x] Add material (pallet) offline.
 - [x] View material list (pallet) offline.
 - [ ] Add material online.
-- [ ] View database of materials online
+- [ ] View database of materials online.
+- [ ] Search for registered materials.
