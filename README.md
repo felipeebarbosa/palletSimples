@@ -1,6 +1,6 @@
 # PalletsSimples
 
->Status : Developing 
+>Status : Developing 🚧
 
 #### It is an application whose objective is to facilitate the to-do list in the making of labels for the freeing of pallets.
 
@@ -11,3 +11,12 @@
 - [ ] View database of materials online.
 - [ ] Search for registered materials.
 
+### 🛠 Technology
+
+The following tools were used in the construction of the project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
