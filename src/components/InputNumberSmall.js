@@ -2,14 +2,13 @@ import React, { useState } from 'react';
 
 import { SafeAreaView, StyleSheet, TextInput } from 'react-native';
 
-export default ({ placeholder, margin, value, onChangeText }) => {
+export default ({ placeholder, value, onChangeText }) => {
   return (
     <TextInput
       style={styles.input}
       placeholder={placeholder}
       keyboardType="numeric"
       width={'80%'}
-      margin={(props) => props.margin}
       defaultValue={value}
       onChangeText={onChangeText}
     />

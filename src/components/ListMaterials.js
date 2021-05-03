@@ -1,6 +1,5 @@
-import React from 'react'
-import styled from 'styled-components/native'
-
+import React from 'react';
+import styled from 'styled-components/native';
 
 export const ListMaterials = styled.View`
     flex : 1;
@@ -8,7 +7,7 @@ export const ListMaterials = styled.View`
 
 `;
 
-export const Container = styled.View`
+export const Container2 = styled.View`
     flex : 1;
     border-radius : 10px;
     background-color : #fff
@@ -39,7 +38,7 @@ export const ContA = styled.Text`
     font-weight : bold
 `;
 
-export const ContC= styled.Text`
+export const ContC = styled.Text`
     font-size : 20px;
     color : #545454
     font-weight : bold
@@ -53,40 +52,36 @@ export const Nome = styled.Text`
 export const Label = styled.Text`
     font-size : 20px;
     color : #545454;
-    margin-left : ${props => props.margin ? '20px' : '0px'}
+    margin-left : ${(props) => (props.margin ? '20px' : '0px')}
     
-`
+`;
 
-
-
-
-
-export default ({ data }) =>{
-    return (
-        <Container>
-            <ListMaterials>
-                <WraperCont>
-                    <Codigo>{data.codigo}</Codigo>
-                    <Tom>{data.tom}</Tom>
-                </WraperCont>
-                <WraperCont>
-                    <Nome>{ data.nome }</Nome>
-                </WraperCont>
-                <WraperCont>
-                    <Label>Pallets A : </Label>
-                        <ContA>{data.palletsA}</ContA>
-                    <Label margin={true}>Caixas A : </Label>
-                        <ContA>{data.caixasA}</ContA>
-                </WraperCont>
-                <WraperCont>
-                    <Label>Pallets C : </Label>
-                        <ContC>{data.palletsC}</ContC>
-                    <Label margin={true}>Caixas C : </Label>
-                        <ContC>{data.caixasC}</ContC>
-                </WraperCont>
-            </ListMaterials>
-        </Container>
-    )
-}
+export default ({ data }) => {
+  return (
+    <Container2>
+      <ListMaterials>
+        <WraperCont>
+          <Codigo>{data.codigo}</Codigo>
+          <Tom>{data.tom}</Tom>
+        </WraperCont>
+        <WraperCont>
+          <Nome>{data.nome}</Nome>
+        </WraperCont>
+        <WraperCont>
+          <Label>Pallets A : </Label>
+          <ContA>{data.palletsA}</ContA>
+          <Label margin={true}>Caixas A : </Label>
+          <ContA>{data.caixasA}</ContA>
+        </WraperCont>
+        <WraperCont>
+          <Label>Pallets C : </Label>
+          <ContC>{data.palletsC}</ContC>
+          <Label margin={true}>Caixas C : </Label>
+          <ContC>{data.caixasC}</ContC>
+        </WraperCont>
+      </ListMaterials>
+    </Container2>
+  );
+};
 
 // id, nome, tom, palletsA, caixasA, palletsC, caixasC

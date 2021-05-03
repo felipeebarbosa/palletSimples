@@ -35,6 +35,16 @@ export const SearchInput = styled.TextInput`
 
 export const Column = styled.View`
     flex-direction : column;
-    width : ${props => props.width};
+    width : ${(props) => props.width};
     align-items : center;
-`
+   
+`;
+
+
+export const Column2 = styled.View`
+    flex-direction : column;
+    width : ${(props) => props.width};
+    align-items : center;
+    
+    margin-left : -10%
+`;

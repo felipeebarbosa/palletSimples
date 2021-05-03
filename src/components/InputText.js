@@ -13,7 +13,14 @@ export const InputText = styled.TextInput`
 
 `;
 
-export default ({ width, marginRight, marginLeft, placeholder, value, onChangeText}) => {
+export default ({
+  width,
+  marginRight,
+  marginLeft,
+  placeholder,
+  value,
+  onChangeText,
+}) => {
   return (
     <InputText
       value={value}
@@ -21,7 +28,6 @@ export default ({ width, marginRight, marginLeft, placeholder, value, onChangeTe
       placeholder={placeholder}
       marginRight={marginRight}
       marginLeft={marginLeft}
-      width={width}>
-    </InputText>
+      width={width}></InputText>
   );
 };

@@ -15,7 +15,7 @@ export const TextButton = styled.Text`
     font-size : 15px;
     font-weight : bold;
 `;
-export default ({ title, funcao }) => {
+export default ({ title, funcao}) => {
   return (
     <Button onPress={funcao}>
       <TextButton>{title}</TextButton>

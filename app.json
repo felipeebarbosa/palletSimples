@@ -2,11 +2,26 @@
   "name": "palletSimples2",
   "displayName": "palletSimples2",
   "expo": {
-    "name": "palletSimples2",
-    "slug": "palletSimples2",
+    "name": "palletSimples",
+    "slug": "palletSimples",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "orientation" : "portrait",
+    "icon" : "./assets/icon.png",
+    "splash" : {
+        "image" : "./assets/splash.png",
+        "resizeMode" : "contain",
+        "backgroundColor" : "#F3F3F3"
+      },
+    "ios": {
+      "bundleIdentifier": "com.fiduky.palletssimples",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.fiduky.palletssimples",
+      "versionCode": 1
+    }
   }
 }
