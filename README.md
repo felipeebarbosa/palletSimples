@@ -20,3 +20,7 @@ The following tools were used in the construction of the project:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Styled-componets](https://styled-components.com/)
+
+<h1 align="center">
+  <img alt="Home" title="#Home" src="./assets/screenshots/home" />
+</h1>
