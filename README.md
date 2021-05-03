@@ -26,8 +26,8 @@ The following tools were used in the construction of the project:
   <img alt="Home" title="#Home" src="./assets/screenshots/home.png" />
   <img alt="Home" title="#Create List" src="./assets/screenshots/createList.png" />
   <img alt="Home" title="#See list" src="./assets/screenshots/seeList.png" />
-  <img alt="Home" title="#Add Database" src="./assets/screenshots/cadDatabase.png" />
-  <img alt="Home" title="#See Database" src="./assets/screenshots/seeDatabase.png" />
+ 
+  
 </h1>
 
 <!-- ### Create List Offline
