@@ -28,23 +28,6 @@ The following tools were used in the construction of the project:
 - [React Native](https://reactnative.dev/)
 - [Styled-componets](https://styled-components.com/)
 
-### ScreenShots
-<h1 align="center">
-  <img alt="Home" title="#Home" src="./assets/screenshots/home.png" />
-
-<h1 align="center">
-  
-  <img alt="Home" title="#Create List" src="./assets/screenshots/createList.png" />
-  
-</h1>
-
-
-<h1 align="center">
-  
-  <img alt="Home" title="#See list" src="./assets/screenshots/seeList.png" />
-</h1>
-
-
 
 <!-- ### Create List Offline
 <h1 align="center">
