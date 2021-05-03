@@ -22,5 +22,5 @@ The following tools were used in the construction of the project:
 - [Styled-componets](https://styled-components.com/)
 
 <h1 align="center">
-  <img alt="Home" title="#Home" src="./assets/screenshots/home" />
+  <img alt="Home" title="#Home" src="./assets/screenshots/home.png" />
 </h1>
