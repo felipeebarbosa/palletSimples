@@ -1,5 +1,7 @@
 # PalletsSimples
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+
 >Status : Developing 🚧
 
 #### It is an application whose objective is to facilitate the to-do list in the making of labels for the freeing of pallets.
