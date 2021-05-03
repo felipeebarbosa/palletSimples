@@ -28,23 +28,21 @@ The following tools were used in the construction of the project:
 - [React Native](https://reactnative.dev/)
 - [Styled-componets](https://styled-components.com/)
 
+### 🎲 Installation
 
-<!-- ### Create List Offline
-<h1 align="center">
-  <img alt="Home" title="#Create List" src="./assets/screenshots/createList.png" />
-</h1>
+#### Requirements
 
-### See List Offline
-<h1 align="center">
-  <img alt="Home" title="#See list" src="./assets/screenshots/seeList.png" />
-</h1>
+- [x] [Node.js](https://nodejs.org/en/)
+- [x] [Expo](https://blog.expo.io/expo-sdk-41-12cc5232f2ef)
+- [x] [Git](https://git-scm.com)
 
-### Add materials in database Online and Offline
-<h1 align="center">
-  <img alt="Home" title="#Add Database" src="./assets/screenshots/cadDatabase.png" />
-</h1>
+### Clone this repository´
+$ git clone <https://github.com/felipeebarbosa/palletSimples2>
 
-### See database
-<h1 align="center">
-  <img alt="Home" title="#See Database" src="./assets/screenshots/seeDatabase.png" />
-</h1> -->
+### Access the project folder in the cmd / terminal
+
+### Install as dependencies
+$ npm install
+### and
+$ yarn install
+
