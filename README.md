@@ -1,6 +1,11 @@
 # PalletsSimples
 <img src='https://img.shields.io/badge/Node-%3E%2014.16.1-green'></img>
-<img src='https://img.shields.io/badge/version-1.0%20BETA-red'></img>
+<img src='https://img.shields.io/badge/Version-1.0%20BETA-red'></img>
+<img src='https://img.shields.io/badge/Author-Felipe%20Barbosa-blue'></img>
+<img src='https://img.shields.io/badge/Project-PalletSimples-brightgreen'></img>
+
+
+
 
 >Status : Developing 🚧
 
