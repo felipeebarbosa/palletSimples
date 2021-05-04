@@ -1,4 +1,6 @@
 # PalletsSimples
+<img src='https://img.shields.io/badge/Node-%3E%2014.16.1-green'></img>
+<img src='https://img.shields.io/badge/version-1.0%20BETA-red'></img>
 
 >Status : Developing 🚧
 
@@ -47,4 +49,3 @@ The following tools were used in the construction of the project:
 #### and
  > $ yarn install
 
-<img src='https://img.shields.io/badge/license-MIT-green'></img>
