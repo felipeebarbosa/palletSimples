@@ -40,6 +40,7 @@ The following tools were used in the construction of the project:
  > $ git clone <https://github.com/felipeebarbosa/palletSimples2>
 
 ### Access the project folder in the cmd / terminal
+ > $ cd palletsSimples2
 
 ### Install as dependencies
  > $ npm install
