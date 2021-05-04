@@ -37,10 +37,10 @@ The following tools were used in the construction of the project:
 - [x] [Git](https://git-scm.com)
 
 ### Clone this repository
- > $ git clone <https://github.com/felipeebarbosa/palletSimples2>
+ > $ git clone <https://github.com/felipeebarbosa/palletSimples>
 
 ### Access the project folder in the cmd / terminal
- > $ cd palletsSimples2
+ > $ cd palletsSimples
 
 ### Install as dependencies
  > $ npm install
