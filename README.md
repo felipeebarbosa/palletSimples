@@ -47,3 +47,4 @@ The following tools were used in the construction of the project:
 #### and
  > $ yarn install
 
+<img src='https://img.shields.io/badge/license-MIT-green'></img>
