@@ -43,6 +43,11 @@ The following tools were used in the construction of the project:
 - [x] [Expo](https://blog.expo.io/expo-sdk-41-12cc5232f2ef)
 - [x] [Git](https://git-scm.com)
 
+
+### Quick start using the expo stacks
+
+> https://snack.expo.io/@fiduky2/palletlist
+
 ### Clone this repository
  > $ git clone <https://github.com/felipeebarbosa/palletSimples>
 
@@ -53,4 +58,6 @@ The following tools were used in the construction of the project:
  > $ npm install
 #### and
  > $ yarn install
+ 
+
 
